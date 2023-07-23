@@ -1,0 +1,12 @@
+.todo {
+  width: 700px;
+  height: auto;
+  margin: 100px auto;
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.title {
+  text-align: center;
+  color: var(--white);
+}
